@@ -15,7 +15,7 @@ export const projects = [
     title: "NewsLetter",
     description:
       "A Newsletter signup page which sends user mails using Mailchimp API made using Express and Javascript.",
-    image: "/images/Newsletter.png",
+    image: "/images/NewsLetter.png",
     tags: ["Express", "JavaScript"],
     source: "https://stark-spire-49870.herokuapp.com/",
     visit: "https://github.com/SameerBamanha/Newsletter-Signup-WebApp",
