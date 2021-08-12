@@ -21,16 +21,15 @@ export const projects = [
     visit: "https://github.com/SameerBamanha/Newsletter-Signup-WebApp",
     id: 1,
   },
-  // {
-  //   title: "WebRTC App",
-  //   description:
-  //     "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-  //   image: "/images/3.jpg",
-  //   tags: ["React", "WebRTC"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
-  //   id: 2,
-  // },
+  {
+    title: "Video Chat App",
+    description: "A Video chat app using WebRTC App.",
+    image: "/images/3.jpg",
+    tags: ["React", "WebRTC"],
+    source: "https://google.com",
+    visit: "https://google.com",
+    id: 2,
+  },
   // {
   //   title: "Unichat",
   //   description:
