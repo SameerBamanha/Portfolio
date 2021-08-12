@@ -33,7 +33,7 @@ export const projects = [
   {
     title: "Random Quote generater",
     description: "Randomly generate Naruto quotes",
-    image: "/images/4.jpg",
+    image: "/images/4.png",
     tags: ["React"],
     source: "https://github.com/SameerBamanha/Naruto-Advices-",
     visit: "https://narutoadvices.netlify.app/",
