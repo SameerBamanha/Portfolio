@@ -30,16 +30,15 @@ export const projects = [
     visit: "https://videochatonevone.netlify.app/",
     id: 2,
   },
-  // {
-  //   title: "Unichat",
-  //   description:
-  //     "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: "/images/4.jpg",
-  //   tags: ["React", "ChatEngine", "Firebase"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
-  //   id: 3,
-  // },
+  {
+    title: "Random Quote generater",
+    description: "Randomly generate Naruto quotes",
+    image: "/images/4.jpg",
+    tags: ["React"],
+    source: "https://github.com/SameerBamanha/Naruto-Advices-",
+    visit: "https://narutoadvices.netlify.app/",
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
