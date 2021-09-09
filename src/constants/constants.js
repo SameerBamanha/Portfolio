@@ -3,13 +3,30 @@ export const projects = [
     title: "MERN Memories",
     description:
       "A Full Stack MERN Application using React, Node.js, Express & MongoDB. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: "/images/1.png",
+    image: "/images/Memories.png",
     tags: ["Mongo", "Express", "React", "Node"],
-    source:
-      "https://i0.wp.com/www.hadeninteractive.com/wp-content/uploads/2014/01/wip.jpg?fit=425%2C283&ssl=1",
-    visit:
-      "https://i0.wp.com/www.hadeninteractive.com/wp-content/uploads/2014/01/wip.jpg?fit=425%2C283&ssl=1",
+    source: "https://github.com/SameerBamanha/Memories",
+    visit: "https://memoriesappbyme.netlify.app/",
     id: 0,
+  },
+  {
+    title: "",
+    description:
+      " An advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering",
+    image: "/images/Travel.png",
+    tags: ["React"],
+    source: "https://github.com/SameerBamanha/TravelAdvisior",
+    visit: "https://traveladvisior.netlify.app/",
+    id: 1,
+  },
+  {
+    title: "Video Chat App",
+    description: "A Video chat app using WebRTC App.",
+    image: "/images/videoChat.png",
+    tags: ["React", "WebRTC"],
+    source: "https://github.com/SameerBamanha/Video-Chat-App",
+    visit: "https://videochatonevone.netlify.app/",
+    id: 2,
   },
   {
     title: "NewsLetter",
@@ -19,25 +36,16 @@ export const projects = [
     tags: ["Express", "JavaScript"],
     source: "https://stark-spire-49870.herokuapp.com/",
     visit: "https://github.com/SameerBamanha/Newsletter-Signup-WebApp",
-    id: 1,
+    id: 3,
   },
   {
-    title: "Video Chat App",
-    description: "A Video chat app using WebRTC App.",
-    image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
-    source: "https://github.com/SameerBamanha/Video-Chat-App",
-    visit: "https://videochatonevone.netlify.app/",
-    id: 2,
-  },
-  {
-    title: "Random Quote generater",
-    description: "Randomly generate Naruto quotes",
-    image: "/images/4.png",
+    title: "Naruto Quotes",
+    description: "Randomly created Naruto quotes",
+    image: "/images/advices.png",
     tags: ["React"],
     source: "https://github.com/SameerBamanha/Naruto-Advices-",
     visit: "https://narutoadvices.netlify.app/",
-    id: 3,
+    id: 4,
   },
 ];
 
