@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "Video Chat App",
     description: "A Video chat app using WebRTC App.",
-    image: "/images/videoChat.png",
+    image: "/images/videoChat.jpg",
     tags: ["React", "WebRTC"],
     source: "https://github.com/SameerBamanha/Video-Chat-App",
     visit: "https://videochatonevone.netlify.app/",
