@@ -10,7 +10,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: "",
+    title: "Travel Advisor App",
     description:
       " An advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering",
     image: "/images/Travel.png",
@@ -21,7 +21,7 @@ export const projects = [
   },
   {
     title: "Video Chat App",
-    description: "A Video chat app using WebRTC App.",
+    description: "A Video chat app using WebRTC Api.",
     image: "/images/videoChat.jpg",
     tags: ["React", "WebRTC"],
     source: "https://github.com/SameerBamanha/Video-Chat-App",
